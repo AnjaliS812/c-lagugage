@@ -8,5 +8,6 @@
       {    
           fact=fact*i;    
       }    
-      printf("fact=%d",fact);     
+      printf("fact=%d",fact);
+        printf("Hello");     
     }   
